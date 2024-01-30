@@ -1,0 +1,4 @@
+I designed an interface named "Vehicle" as part of my assignments that includes methods for retrieving the vehicle's make, model, and year of manufacture.
+There's a class named "Car" that implements the Vehicle and "CarVehicle" interfaces. This interface includes additional methods for setting and retrieving the number of doors and the fuel type (petrol, diesel, or electric).
+I constructed a class named "Motorcycle" that also implements Vehicle and the "MotorVehicle" interfaces. This interface should has methods for setting and retrieving the number of wheels and the type of motorcycle (sport, cruiser, or off-road).
+Generate a class named "Truck" that implements the Vehicle and "TruckVehicle" interfaces. This interfaceincludes methods for setting and retrieving the cargo capacity (in tons) and the transmission type (manual or automatic).
